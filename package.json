@@ -1,5 +1,5 @@
 {
-  "name": "mock-server-helper",
+  "name": "mock-server-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "dist/bundle.js",
@@ -15,9 +15,9 @@
   "keywords": [
     "npm",
     "mock-server",
-    "mock-server-helper"
+    "mock-server-webpack"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "require-context": "^1.1.0"
   }
